@@ -1,6 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is line 2. Change for divergent branches.
 Changes for rebasing.
 =======
@@ -9,3 +10,7 @@ Fetching examples
 =======
 Fetching examples here
 >>>>>>> 7ed282116b29e1003f4e35497ffc72a33bbb0df8
+=======
+Fetching examples here.
+Pulling with conflicts here.
+>>>>>>> 4b13a0b7cddfa84cfde44577cba34cafc50a75e9
